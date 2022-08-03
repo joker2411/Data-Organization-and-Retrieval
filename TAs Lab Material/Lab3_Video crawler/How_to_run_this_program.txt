@@ -1,0 +1,24 @@
+###########################################################################################################
+
+1. Run following command on Anaconda cmd (after navigating to the file path):
+	python gui.py
+
+For example: C:\Users\Hp\Desktop\Rishika_DL>python gui.py
+
+2. A window will appear containing buttons to scrap data. Click on buttons to scrap Amazon mobile phones information, 
+images and video from a newswebsite.
+
+3. Results:
+a) A csv fill will be formed that will contain all text data.
+b) Images folder will contain all images.
+c) Videos in the page will be scraped and stored in the main folder. 
+
+##########################################################################################################
+
+To test second time:
+1. Delete the csv file.
+2. Delete the images inside the Images folder.
+(Don't delete the Images folder)
+3. Delete the video.
+
+#############################################################################################################
